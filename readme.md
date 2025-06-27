@@ -1,4 +1,10 @@
-# Slack Daily Update Bot
+# 🤖 Slack Bot for Daily Updates (with MySQL)
+
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![Slack Bot](https://img.shields.io/badge/slack--api-socket--mode-green)
+![MySQL](https://img.shields.io/badge/database-mysql-yellow)
+![Status](https://img.shields.io/badge/status-working-brightgreen)
+
 
 This Slack bot interacts with users in DMs, lets them opt into daily updates, and sends a scheduled message at 9 PM every day. Preferences are stored in a MySQL database.
 
